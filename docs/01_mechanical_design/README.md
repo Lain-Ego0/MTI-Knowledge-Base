@@ -8,4 +8,4 @@
 4. [3D打印使用指南](飞书链接)
 
 ## 补充说明
-文档遵循仓库全局[引用规范](../../09_citation_specs/README.md)，更新需提交PR并通过模块负责人审核。
+文档遵循仓库全局[引用规范](https://github.com/FJUTMTI/MTI-Knowledge-Base/blob/main/docs/09_citation_specs/README.md)，更新需提交PR并通过模块负责人审核。
