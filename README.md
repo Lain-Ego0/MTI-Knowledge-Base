@@ -4,7 +4,7 @@ MTI-KBI（MTI机器人队知识库索引）是MTI机器人队的**统一技术�
 本仓库采用模块化拆分管理，通过**相对路径**导航所有文档，适配GitHub网页端/本地编辑器浏览。
 
 ## 快速导航
-### 技术文档模块
+### 技术文档
 | 分类 | 模块入口 | 核心内容 |
 | ---- | -------- | -------- |
 | 🛠️ 机械设计 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 设计规范、零件库、装配调试、3D打印 |
@@ -15,6 +15,11 @@ MTI-KBI（MTI机器人队知识库索引）是MTI机器人队的**统一技术�
 | 🤖 机器人学 | [docs/06_robotics/](docs/06_robotics/README.md) | 足式机器人、机械臂解算 |
 | 🧠 AI算法 | [docs/07_ai_algorithms/](docs/07_ai_algorithms/README.md) | 强化学习、深度学习、硬件部署 |
 | 📚 工程实践 | [docs/08_engineering_practice/](docs/08_engineering_practice/README.md) | 工具链、项目管理规范 |
+
+### 赛道文档
+| 主题赛 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 
+| 足式赛 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 
+| 排球赛 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 
 
 ### 规范与协作
 - [引用规范](docs/09_citation_specs/README.md)：文档编写与资源引用标准
