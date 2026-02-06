@@ -17,6 +17,8 @@ MTI-KBI（MTI机器人队知识库索引）是MTI机器人队的**统一技术�
 | 📚 工程实践 | [docs/08_engineering_practice/](docs/08_engineering_practice/README.md) | 工具链、项目管理规范 |
 
 ### 赛道文档
+| 分类 | 模块入口 | 
+| ---- | -------- | 
 | 主题赛 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 
 | 足式赛 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 
 | 排球赛 | [docs/01_mechanical_design/](docs/01_mechanical_design/README.md) | 
